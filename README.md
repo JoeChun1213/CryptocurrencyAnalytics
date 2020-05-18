@@ -1,5 +1,5 @@
 ## Project Overview  
-Here, we dive deeper into machine learning using unsupervised algorithms, which help us explore data when we’re not sure what we’re looking for. Now we can analyze data without a clear output in mind.
+Machine learning using unsupervised algorithms; which is mainly used to seek for results that we do not know. 
 We work primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. We build on this by speeding up the process using principal component analysis (PCA), which employs many different features.
 
 ## Objectives 
