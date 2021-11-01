@@ -1,3 +1,9 @@
+* Update the ipynb files from the local repo.
+
+# Objectives
+
+Using the machine learning unsupervised algorithms such as K-means along with the dimension reducton technique, PCA, we aim to do cluster analysis of the Cryptocurrency data.
+
 ## Project Overview  
 Machine learning using unsupervised algorithms; which is mainly used to seek for results that we do not know. 
 We work primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. We build on this by speeding up the process using principal component analysis (PCA), which employs many different features.
